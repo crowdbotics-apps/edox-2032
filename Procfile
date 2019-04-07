@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT edox_2032.wsgi:application
